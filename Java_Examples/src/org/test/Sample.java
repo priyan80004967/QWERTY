@@ -9,5 +9,10 @@ public class Sample {
 		int c=(a+b);
 		System.out.println(c);
 	}
+	
+	
+	private void payment() {
+		System.out.println("Payment");
+	}
 
 }
