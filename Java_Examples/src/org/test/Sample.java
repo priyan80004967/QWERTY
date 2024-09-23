@@ -14,7 +14,5 @@ public class Sample {
 	private void payment() {
 		System.out.println("Payment");
 	}
-	private void addtocart() {
-		System.out.println("Payment");
-	}
+	
 }
